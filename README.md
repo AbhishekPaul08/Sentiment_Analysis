@@ -49,7 +49,7 @@ To set up this project, follow these steps:
    ```bash
    streamlit run  "C:\Users\asp00\Downloads\Sentiment_analysis\app.py"
    ```
-
+    Locate the project in your PC and change the path before running.
 Now, the Sentiment Analysis application should be accessible in your web browser.
 
 ## Usage
