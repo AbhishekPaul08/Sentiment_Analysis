@@ -25,7 +25,7 @@ To set up this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/AbhishekPaul08/Sentiment_Analysis.git>
+   git clone https://github.com/AbhishekPaul08/Sentiment_Analysis.git
    cd sentiment-analysis-roberta
    ```
 
@@ -71,7 +71,7 @@ This project was developed during an internship hackathon and was made possible 
 - [Streamlit](https://www.streamlit.io/)
 - [Hugging Face Transformers Library](https://huggingface.co/transformers/)
 
-Feel free to customize and extend this project to suit your specific needs or integrate it with other applications. If you have any questions or suggestions, please feel free to reach out to the project developers.
+Feel free to customize and extend this project to suit your specific needs or integrate it with other applications. If you have any questions or suggestions, please feel free to contact.
 
 ## Development
 
@@ -84,3 +84,6 @@ If you want to customize or extend this project, here's how the code is structur
 - `run.txt`: Command to run the streamlit webapp.
 
 Enjoy using this Sentiment Analysis tool with RoBERTa and Streamlit!
+
+## Flexing
+- This project won us the hackathon from this (Sentiment analysis) problem statement.
