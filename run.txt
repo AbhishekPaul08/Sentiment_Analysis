@@ -1,0 +1,1 @@
+streamlit run  "C:\Users\asp00\Downloads\Sentiment_analysis\untitled2.py"
