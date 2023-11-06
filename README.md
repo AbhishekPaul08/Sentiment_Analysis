@@ -1,6 +1,6 @@
 # Sentiment Analysis with RoBERTa Model and Streamlit
 
-![Sentiment Analysis Demo](sentiment-analysis-demo.png)
+
 
 This project is a Sentiment Analysis tool that uses the RoBERTa model for natural language processing and a Streamlit-based frontend. It was developed during an internship hackathon and is designed to analyze the sentiment of text input.
 
